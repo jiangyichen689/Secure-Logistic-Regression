@@ -1,0 +1,37 @@
+﻿  Creating untrusted proxy/bridge routines
+  ReadData.cpp
+  OutEnclaveTest.cpp
+  ADD_CARRY_UINT64 not defined. Using add_uint64_uint64_generic (see util/defines.h)
+  SUB_BORROW_UINT64 not defined. Using sub_uint64_uint64_generic (see util/defines.h).
+  MULTIPLY_UINT64 not defined. Using multiply_uint64_uint64_generic (see util/defines.h).
+  MSB_INDEX_UINT64 not defined. Using get_msb_index_generic (see util/defines.h).
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(72): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(72): warning C4003: not enough actual parameters for macro 'max'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(76): warning C4003: not enough actual parameters for macro 'max'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(76): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(78): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(80): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(82): warning C4003: not enough actual parameters for macro 'max'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(93): warning C4003: not enough actual parameters for macro 'max'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(93): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(94): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\seal_outenclave\randomgen.h(100): warning C4003: not enough actual parameters for macro 'min'
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(559): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(560): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(583): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(605): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(608): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(679): warning C4244: 'argument': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(695): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(726): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(741): warning C4244: 'argument': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(1080): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(1183): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(1184): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\outenclavetest.cpp(1185): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MakeConfigure.cpp
+c:\users\user\desktop\wip sealenclavetest with proper sgx(copied from 8.21.2017)\outenclavetest\makeconfigure.cpp(61): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SealEnclaveTest_u.c
+  OutEnclaveTest.vcxproj -> C:\Users\user\Desktop\WIP SealEnclaveTest with Proper SGX(Copied from 8.21.2017)\x64\Debug\OutEnclaveTest.exe
+  OutEnclaveTest.vcxproj -> C:\Users\user\Desktop\WIP SealEnclaveTest with Proper SGX(Copied from 8.21.2017)\x64\Debug\OutEnclaveTest.pdb (Partial PDB)
